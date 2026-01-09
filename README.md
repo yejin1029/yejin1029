@@ -19,7 +19,6 @@ CI/CD 자동화와 증거 기반 트러블슈팅(로그/패킷), Runbook 문서�
 ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Docker%20Registry](https://img.shields.io/badge/Registry-registry%3A2-0db7ed?style=flat-square)
 
 ### Cloud / AWS
 ![Amazon%20EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
@@ -31,7 +30,7 @@ CI/CD 자동화와 증거 기반 트러블슈팅(로그/패킷), Runbook 문서�
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
-### Frameworks / Engine
+### Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
