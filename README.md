@@ -3,11 +3,11 @@
 
 
 ## 🚀 Featured Projects
-| Project | Summary | Tech | Link |
-|---|---|---|---|
-| 🤖 Postura | FastAPI 기반 AI 서버/API 개발, Docker & CI 적용 | FastAPI · Python · Docker · GitHub Actions | [Repo](https://github.com/TABA-postura/AI) |
-| ✅ Nginx Troubleshooting Runbook | WSL2 Ubuntu에서 접속 불가 케이스(A/B/C) 재현 및 Runbook 문서화 | Linux · Nginx · iptables/ip6tables · tcpdump | [Repo](https://github.com/yejin1029/Nginx_troubleshooting) |
-| 🎮 DelRev | Unity C# 게임 클라이언트 개발 (Storage Systems / Monster Logic 등) | Unity · C# · URP | [Repo](https://github.com/hitori839/DelRev) |
+| Project | Summary | Link |
+|---|---|---|
+| 🤖 Postura (자세 교정 웹 서비스) | FastAPI 기반 AI 서버/API 개발, Docker & CI 적용 | [Repo](https://github.com/TABA-postura/AI) |
+| ✅ Nginx Troubleshooting Runbook | WSL2 Ubuntu에서 접속 불가 케이스 재현 및 Runbook 문서화 | [Repo](https://github.com/yejin1029/Nginx_troubleshooting) |
+| 🎮 DelRev (3D 스텔스 서바이벌 게임) | Unity C# 게임 클라이언트 개발 (Storage Systems / Monster Logic 등) | [Repo](https://github.com/hitori839/DelRev) |
 
 ## ⚙️ Tech Stack
 
