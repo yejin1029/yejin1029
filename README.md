@@ -4,12 +4,12 @@
 **CI/CD 자동화**와 **증거 기반 트러블슈팅(로그/패킷)**, **Runbook 문서화**로 **서비스 신뢰성**을 높이는 방식으로 일합니다.
 
 ## 🚀 Projects
-| Project | Description | Role | Period | Link |
-|---|---|---|---|---|
-| 🤖 Postura | 자세 교정 웹 서비스 | AI API (FastAPI) · CI/CD 자동 배포 | 2025.10-12 | [![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TABA-postura/AI) |
-| ✅ Nginx Runbook | Nginx 접속 불가 Runbook | 장애 재현 · Runbook · tcpdump | 2026.01 | [![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yejin1029/Nginx_troubleshooting) |
-| 🗂 Docker Registry Manager | Private Registry | Management API (Flask) · Audit Log | 2025.05-06 | [![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yejin1029/Docker-Registry-Manager) |
-| 🎮 DelRev | Unity 스텔스 서바이벌 게임 | Unity Client · Storage/Monster Logic | 2025.03-11 | [![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hitori839/DelRev) |
+| Project | Description | Role | Period |
+|---|---|---|---|
+| 🤖 [Postura](https://github.com/TABA-postura/AI) | 자세 교정 웹 서비스 | AI API (FastAPI) · CI/CD 자동 배포 | 2025.10-12 |
+| ✅ [Nginx Runbook](https://github.com/yejin1029/Nginx_troubleshooting) | Nginx 접속 불가 트러블슈팅 Runbook | 장애 재현 · Runbook · tcpdump | 2026.01 |
+| 🗂 [Docker Registry Manager](https://github.com/yejin1029/Docker-Registry-Manager) | Private Registry | Management API (Flask) · Audit Log | 2025.05-06 |
+| 🎮 [DelRev](https://github.com/hitori839/DelRev) | Unity 스텔스 서바이벌 게임 | Unity Client · Storage/Monster Logic | 2025.03-11 |
 
 ## ⚙️ Tech Stack
 
@@ -48,9 +48,9 @@
 
 | Award | Event | Project | Date |
 |---|---|---|---|
-| 🥇 최우수상 (1등) | TABA 아카데미 10기 발표회 | 🤖 Postura | 2025-12-23 |
-| 🥉 장려상 (3등) | 2025 캡스톤디자인 경진대회 (G7 부문) | 🎮 DelRev | 2025-12-05 |
-| 🏅 장려상 (4등) | 2025 DKU SW융합대학 캡스톤 페스티벌 | 🎮 DelRev | 2025-12-05 |
+| 🥇 최우수상 (1등) | TABA 아카데미 10기 발표회 | 🤖 [Postura](https://github.com/TABA-postura/AI) | 2025-12-23 |
+| 🥉 장려상 (3등) | 2025 캡스톤디자인 경진대회 (G7 부문) | 🎮 [DelRev](https://github.com/hitori839/DelRev) | 2025-12-05 |
+| 🏅 장려상 (4등) | 2025 DKU SW융합대학 캡스톤 페스티벌 | 🎮 [DelRev](https://github.com/hitori839/DelRev) | 2025-12-05 |
 
 ## 📜 Certifications
 
