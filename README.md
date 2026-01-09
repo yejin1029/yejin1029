@@ -13,8 +13,6 @@
 
 ### DevOps / Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker%20Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker%20Hub](https://img.shields.io/badge/Docker%20Hub-0db7ed?style=flat-square)
 ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -24,36 +22,33 @@
 ![Amazon%20Route%2053](https://img.shields.io/badge/Amazon%20Route%2053-FF9900?style=flat-square&logo=amazonroute53&logoColor=white)
 
 ### Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 
 ### Frameworks / Libraries
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-### ML / CV (Models & Tools)
-![MobileNetV2](https://img.shields.io/badge/MobileNetV2-6E6E6E?style=flat-square)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square)
 
 ### Game / Graphics
 ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
-![URP](https://img.shields.io/badge/Unity%20URP-6E6E6E?style=flat-square)
 
+<details>
+<summary><b>Also used (Project experience)</b></summary>
+### Data / ML / CV
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square)
+</details>
 
 ## 🏆 Awards
 
 | Award | Event | Host | Project | Date |
 |---|---|---|---|---|
-| 🥇 최우수상 (1등) | TABA 아카데미 10기 발표회 | TABA 아카데미 사업단 | Postura | 2025-12-23 |
-| 🥉 장려상 (3등) | 2025 캡스톤 경진대회 | 단국G_RISE사업단 | DelRev | 2025-12-05 |
-| 🏅 장려상 (4등) | 2025 단국대학교 SW융합대학 캡스톤 페스티벌 | SW중심대학사업단 | DelRev | 2025-12-05 |
+| 🥇 최우수상 (1등) | TABA 아카데미 10기 발표회 | TABA 아카데미 사업단 | 🤖 Postura | 2025-12-23 |
+| 🥉 장려상 (3등) | 2025 캡스톤 경진대회 | 단국G_RISE사업단 | 🎮 DelRev | 2025-12-05 |
+| 🏅 장려상 (4등) | 2025 단국대학교 SW융합대학 캡스톤 페스티벌 | SW중심대학사업단 | 🎮 DelRev | 2025-12-05 |
 
 ## 📜 Certifications
 
