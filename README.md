@@ -1,6 +1,7 @@
 # Yejin Kwon
 
-
+운영 가능한 서비스를 만드는 것을 목표로 하는 클라우드/시스템 엔지니어 지향 개발자입니다.
+CI/CD 자동화와 증거 기반 트러블슈팅(로그/패킷), Runbook 문서화로 서비스 신뢰성을 높이는 방식으로 일합니다.
 
 ## 🚀 Featured Projects
 | Project | Summary | Link |
@@ -11,31 +12,31 @@
 
 ## ⚙️ Tech Stack
 
-**DevOps / Infra**
+### DevOps / Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-**Cloud / AWS**
+### Cloud / AWS
 ![Amazon%20EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![Amazon%20Route%2053](https://img.shields.io/badge/Amazon%20Route%2053-FF9900?style=flat-square&logo=amazonroute53&logoColor=white)
 
-**Languages**
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 
-**Frameworks / Libraries**
+### Frameworks / Libraries
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Game / Graphics**
+### Game Engine
 ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
 
 <details>
 <summary><b>Also used (Project experience)</b></summary>
   
-  **Data / ML / CV**
+  ### Data / ML / CV
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
   ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -57,3 +58,6 @@
 | Certification | Issuer | Issued |
 |---|---|---|
 | 정보처리기사 | 한국산업인력공단 (HRDK) | 2025-12 |
+
+## 📧 Contact
+- Email: dpwlsdl1029@naver.com
