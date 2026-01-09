@@ -1,14 +1,14 @@
 # Yejin Kwon
 
-운영 가능한 서비스를 만드는 것을 목표로 하는 클라우드/시스템 엔지니어 지향 개발자입니다. <br/>
+**운영 가능한 서비스**를 만드는 것을 목표로 하는 **클라우드/시스템 엔지니어 지향 개발자**입니다. <br/>
 CI/CD 자동화와 증거 기반 트러블슈팅(로그/패킷), Runbook 문서화로 서비스 신뢰성을 높이는 방식으로 일합니다.
 
 ## 🚀 Featured Projects
-| Project | Role | Period | Link |
-|---|---|---|---|
-| 🤖 Postura (자세 교정 웹 서비스) | FastAPI 기반 AI 서버/API 개발, CI/CD 파이프라인 구축 | 2025.10-2025.12 | [Repo](https://github.com/TABA-postura/AI) |
-| ✅ Nginx 트러블슈팅 런북 | WSL2 Ubuntu에서 접속 불가 케이스 재현 및 Runbook 문서화 | 2026.01 | [Repo](https://github.com/yejin1029/Nginx_troubleshooting) |
-| 🎮 DelRev (3D 스텔스 서바이벌 게임) | Unity C# 게임 클라이언트 개발 (Storage Systems / Monster Logic 등) | 2025.03-2025.12 | [Repo](https://github.com/hitori839/DelRev) |
+| Project | Description | Role | Period | Link |
+|---|---|---|---|---|
+| 🤖 Postura | 자세 교정 웹 서비스 | FastAPI 기반 AI 서버/API 개발, CI/CD 파이프라인 구축 | 2025.10-2025.12 | [Repo](https://github.com/TABA-postura/AI) |
+| ✅ Nginx 트러블슈팅 런북 | - | WSL2 Ubuntu에서 접속 불가 케이스 재현 및 Runbook 문서화 | 2026.01 | [Repo](https://github.com/yejin1029/Nginx_troubleshooting) |
+| 🎮 DelRev | Unity C#기반 스텔스 서바이벌 게임 | 클라이언트 개발 (Storage Systems / Monster Logic 등) | 2025.03-2025.12 | [Repo](https://github.com/hitori839/DelRev) |
 
 ## ⚙️ Tech Stack
 
