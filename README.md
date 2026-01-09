@@ -5,7 +5,7 @@
 ## 🚀 Featured Projects
 | Project | Summary | Link |
 |---|---|---|
-| 🤖 Postura (자세 교정 웹 서비스) | FastAPI 기반 AI 서버/API 개발, Docker & CI 적용 | [Repo](https://github.com/TABA-postura/AI) |
+| 🤖 Postura (자세 교정 웹 서비스) | FastAPI 기반 AI 서버/API 개발, CI/CD 파이프라인 구축 | [Repo](https://github.com/TABA-postura/AI) |
 | ✅ Nginx 트러블슈팅 런북 | WSL2 Ubuntu에서 접속 불가 케이스 재현 및 Runbook 문서화 | [Repo](https://github.com/yejin1029/Nginx_troubleshooting) |
 | 🎮 DelRev (3D 스텔스 서바이벌 게임) | Unity C# 게임 클라이언트 개발 (Storage Systems / Monster Logic 등) | [Repo](https://github.com/hitori839/DelRev) |
 
@@ -34,12 +34,14 @@
 
 <details>
 <summary><b>Also used (Project experience)</b></summary>
+  
 ### Data / ML / CV
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square)
+
 </details>
 
 ## 🏆 Awards
