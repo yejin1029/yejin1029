@@ -6,9 +6,9 @@ CI/CD 자동화와 증거 기반 트러블슈팅(로그/패킷), Runbook 문서�
 ## 🚀 Featured Projects
 | Project | Description | Role | Period | Link |
 |---|---|---|---|---|
-| 🤖 Postura | 자세 교정 웹 서비스 | FastAPI AI API · CI/CD 자동 배포 | 2025.10–12 | [Repo](https://github.com/TABA-postura/AI) |
+| 🤖 Postura | 자세 교정 웹 서비스 | AI API (FastAPI) · CI/CD 자동 배포 | 2025.10–12 | [Repo](https://github.com/TABA-postura/AI) |
 | ✅ Nginx Runbook | Nginx 접속 불가 런북 | 장애 재현 · Runbook · tcpdump | 2026.01 | [Repo](https://github.com/yejin1029/Nginx_troubleshooting) |
-| 🗂 Docker Registry Manager | Private Registry | Management API(Flask) · Audit Log | 2025.05-06 | [Repo](https://github.com/yejin1029/Docker-Registry-Manager) |
+| 🗂 Docker Registry Manager | Private Registry | Management API (Flask) · Audit Log | 2025.05-06 | [Repo](https://github.com/yejin1029/Docker-Registry-Manager) |
 | 🎮 DelRev | Unity 스텔스 서바이벌 게임 | Unity Client · Storage/Monster Logic | 2025.03–12 | [Repo](https://github.com/hitori839/DelRev) |
 
 ## ⚙️ Tech Stack
