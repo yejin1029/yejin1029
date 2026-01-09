@@ -4,11 +4,11 @@
 CI/CD 자동화와 증거 기반 트러블슈팅(로그/패킷), Runbook 문서화로 서비스 신뢰성을 높이는 방식으로 일합니다.
 
 ## 🚀 Featured Projects
-| Project | Description | Role | Period | Link |
-|---|---|---|---|---|
-| 🤖 Postura | 자세 교정 웹 서비스 | FastAPI 기반 AI 서버 개발, CI/CD 파이프라인 구축 | 2025.10-2025.12 | [Repo](https://github.com/TABA-postura/AI) |
-| ✅ Nginx 트러블슈팅 | Nginx 접속 불가 트러블슈팅 런북 | 케이스 재현 및 문서화 | 2026.01 | [Repo](https://github.com/yejin1029/Nginx_troubleshooting) |
-| 🎮 DelRev | Unity C# 스텔스 서바이벌 게임 | 클라이언트 개발 (Storage Systems 등) | 2025.03-2025.12 | [Repo](https://github.com/hitori839/DelRev) |
+| Project | Highlights | Period | Link |
+|---|---|---|---|
+| 🤖 Postura | AI API(FastAPI) · CI/CD(자동 배포) | 2025.10–12 | [Repo](https://github.com/TABA-postura/AI) |
+| ✅ Nginx Runbook | 장애 재현(A/B/C) · 증거수집(로그/패킷) | 2026.01 | [Repo](https://github.com/yejin1029/Nginx_troubleshooting) |
+| 🎮 DelRev | Unity 클라이언트 · 저장/몬스터 로직 | 2025.03–12 | [Repo](https://github.com/hitori839/DelRev) |
 
 ## ⚙️ Tech Stack
 
@@ -47,7 +47,7 @@ CI/CD 자동화와 증거 기반 트러블슈팅(로그/패킷), Runbook 문서�
 
 | Award | Event | Host | Project | Date |
 |---|---|---|---|---|
-| 🥇 최우수상 (1등) | TABA 아카데미 10기 발표회 | TABA 아카데미 사업단 | 🤖 Postura | 2025-12-23 |
+| 🥇 최우수상 (1등) | TABA 아카데미 10기 발표회 | TABA아카데미사업단 | 🤖 Postura | 2025-12-23 |
 | 🥉 장려상 (3등) | 2025 캡스톤 경진대회 | 단국G_RISE사업단 | 🎮 DelRev | 2025-12-05 |
 | 🏅 장려상 (4등) | 2025 단국대학교 SW융합대학 캡스톤 페스티벌 | SW중심대학사업단 | 🎮 DelRev | 2025-12-05 |
 
