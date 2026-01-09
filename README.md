@@ -8,7 +8,7 @@ CI/CD 자동화와 증거 기반 트러블슈팅(로그/패킷), Runbook 문서�
 |---|---|---|---|---|
 | 🤖 Postura | 자세 교정 웹 서비스 | FastAPI 기반 AI 서버 개발, CI/CD 파이프라인 구축 | 2025.10-2025.12 | [Repo](https://github.com/TABA-postura/AI) |
 | ✅ 트러블슈팅 런북 | Nginx 접속 불가 트러블슈팅 런북 | 케이스 재현 및 Runbook 문서화 | 2026.01 | [Repo](https://github.com/yejin1029/Nginx_troubleshooting) |
-| 🎮 DelRev | Unity C#기반 스텔스 서바이벌 게임 | 클라이언트 개발 (Storage Systems / Monster Logic 등) | 2025.03-2025.12 | [Repo](https://github.com/hitori839/DelRev) |
+| 🎮 DelRev | Unity C# 스텔스 서바이벌 게임 | 클라이언트 개발 (Storage Systems, Monster Logic 등) | 2025.03-2025.12 | [Repo](https://github.com/hitori839/DelRev) |
 
 ## ⚙️ Tech Stack
 
