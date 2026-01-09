@@ -4,11 +4,11 @@
 CI/CD 자동화와 증거 기반 트러블슈팅(로그/패킷), Runbook 문서화로 서비스 신뢰성을 높이는 방식으로 일합니다.
 
 ## 🚀 Featured Projects
-| Project | Highlights | Period | Link |
-|---|---|---|---|
-| 🤖 Postura | AI API(FastAPI) · CI/CD(자동 배포) | 2025.10–12 | [Repo](https://github.com/TABA-postura/AI) |
-| ✅ Nginx Runbook | 장애 재현(A/B/C) · 증거수집(로그/패킷) | 2026.01 | [Repo](https://github.com/yejin1029/Nginx_troubleshooting) |
-| 🎮 DelRev | Unity 클라이언트 · 저장/몬스터 로직 | 2025.03–12 | [Repo](https://github.com/hitori839/DelRev) |
+| Project | Description | Role | Period | Link |
+|---|---|---|---|---|
+| 🤖 Postura | 자세 교정 웹 | AI API(FastAPI) · CI/CD | 2025.10–12 | [Repo](https://github.com/TABA-postura/AI) |
+| ✅ Nginx Runbook | 접속 불가 런북 | Repro · Docs | 2026.01 | [Repo](https://github.com/yejin1029/Nginx_troubleshooting) |
+| 🎮 DelRev | Unity 스텔스 게임 | Client · Systems | 2025.03–12 | [Repo](https://github.com/hitori839/DelRev) |
 
 ## ⚙️ Tech Stack
 
