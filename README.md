@@ -3,7 +3,7 @@
 운영 가능한 서비스를 만드는 것을 목표로 하는 **클라우드/시스템 엔지니어** 지향 개발자입니다.  
 **CI/CD 자동화**와 **증거 기반 트러블슈팅(로그/패킷)**, **Runbook 문서화**로 **서비스 신뢰성**을 높이는 방식으로 일합니다.
 
-## 📌 Projects
+## 🚀 Projects
 | Project | Description | Role | Period | Link |
 |---|---|---|---|---|
 | 🤖 Postura | 자세 교정 웹 서비스 | AI API (FastAPI) · CI/CD 자동 배포 | 2025.10-12 | [![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TABA-postura/AI) |
