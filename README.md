@@ -6,7 +6,7 @@
 | Project | Summary | Link |
 |---|---|---|
 | 🤖 Postura (자세 교정 웹 서비스) | FastAPI 기반 AI 서버/API 개발, Docker & CI 적용 | [Repo](https://github.com/TABA-postura/AI) |
-| ✅ Nginx Troubleshooting Runbook | WSL2 Ubuntu에서 접속 불가 케이스 재현 및 Runbook 문서화 | [Repo](https://github.com/yejin1029/Nginx_troubleshooting) |
+| ✅ Nginx 트러블슈팅 런북 | WSL2 Ubuntu에서 접속 불가 케이스 재현 및 Runbook 문서화 | [Repo](https://github.com/yejin1029/Nginx_troubleshooting) |
 | 🎮 DelRev (3D 스텔스 서바이벌 게임) | Unity C# 게임 클라이언트 개발 (Storage Systems / Monster Logic 등) | [Repo](https://github.com/hitori839/DelRev) |
 
 ## ⚙️ Tech Stack
@@ -41,8 +41,6 @@
 ### ML / CV (Models & Tools)
 ![MobileNetV2](https://img.shields.io/badge/MobileNetV2-6E6E6E?style=flat-square)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square)
-![MediaPipe%20Pose](https://img.shields.io/badge/MediaPipe%20Pose-4285F4?style=flat-square)
-![MediaPipe%20Hands](https://img.shields.io/badge/MediaPipe%20Hands-4285F4?style=flat-square)
 
 ### Game / Graphics
 ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
