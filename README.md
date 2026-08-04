@@ -18,13 +18,6 @@
        /　つ   Φ
 ```
 
-#### Focused On
-🏗 OpenStack Infrastructure (Nova · Neutron · Cinder · Glance) <br/>
-🌐 Linux, Networking & Storage (FC, iSCSI, NFS) <br/>
-🔁 High Availability & Control Plane (Pacemaker, HAProxy, RabbitMQ) <br/>
-⚙️ Infrastructure Automation with Ansible <br/>
-☸️ Kubernetes Infrastructure Operations <br/>
-
 #### Certifications
 - **Engineer Information Processing** - HRDK `2025.12`
 - **ADsP** - K-Data `2026.03`
